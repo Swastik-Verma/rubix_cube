@@ -1,5 +1,5 @@
 //
-// Created by Lenovo on 6/23/2025.
+// Created by Swastik on 6/23/2025.
 //
 
 #include "RubiksCube.h"
